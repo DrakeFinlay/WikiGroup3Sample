@@ -1,6 +1,6 @@
 # WikiGroup3Sample
-This is a Wiki about my cat Ripley.
+This is a sample Wiki about how Gitit works.
 
-She is six yeras old and very anxious.
+Gitit is typically used to host code.
 
-IMG_20190605_153217.jpg
+here is some code: <b> Hello World </b>
